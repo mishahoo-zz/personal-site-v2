@@ -1,0 +1,42 @@
+const data = [
+  {
+    'title': 'Project',
+    'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    'image': 'https://www.w3schools.com/howto/img_fjords.jpg'
+  },
+  {
+    'title': 'Project',
+    'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    'image': 'https://www.w3schools.com/howto/img_fjords.jpg'
+  },
+  {
+    'title': 'Project',
+    'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    'image': 'https://www.w3schools.com/howto/img_fjords.jpg'
+  },
+  {
+    'title': 'Project',
+    'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    'image': 'https://www.w3schools.com/howto/img_fjords.jpg'
+  },
+  {
+    'title': 'Project',
+    'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    'image': 'https://www.w3schools.com/howto/img_fjords.jpg'
+  },
+  {
+    'title': 'Project',
+    'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    'image': 'https://www.w3schools.com/howto/img_fjords.jpg'
+  },
+  {
+    'title': 'Project',
+    'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    'image': 'https://www.w3schools.com/howto/img_fjords.jpg'
+  },
+  {
+    'title': 'Project',
+    'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    'image': 'https://www.w3schools.com/howto/img_fjords.jpg'
+  }
+]
