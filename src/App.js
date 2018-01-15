@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import About from './About';
+import DesignGrid from './DesignGrid';
 import Footer from './Footer';
 import './App.css';
 
@@ -8,6 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <About />
+        <DesignGrid />
         <Footer />
       </div>
     );
