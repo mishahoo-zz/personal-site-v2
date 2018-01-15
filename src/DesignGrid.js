@@ -1,8 +1,11 @@
 import React from 'react';
+import DesignCard from './DesignCard';
 
 const DesignGrid = () => (
   <div className="container">
-    <p>Design Grid</p>
+    <DesignCard />
+    <DesignCard />
+    <DesignCard />
   </div>
 );
 
