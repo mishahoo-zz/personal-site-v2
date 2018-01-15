@@ -1,18 +1,8 @@
 import React from 'react';
-import { Grid, Navbar, Jumbotron, Button } from 'react-bootstrap';
+import { Grid, Jumbotron, Button } from 'react-bootstrap';
 
 const Test = () => (
   <div>
-    <Navbar inverse fixedTop>
-      <Grid>
-        <Navbar.Header>
-          <Navbar.Brand>
-            <a href="/">React App</a>
-          </Navbar.Brand>
-          <Navbar.Toggle />
-        </Navbar.Header>
-      </Grid>
-    </Navbar>
     <Jumbotron>
       <Grid>
         <h1>Welcome to React</h1>
