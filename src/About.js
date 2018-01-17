@@ -4,7 +4,7 @@ import './About.css';
 
 const About = () => (
   <div>
-    <Jumbotron>
+    <Jumbotron className="about-jumbotron">
       <Grid>
         <h1>Hello</h1>
         <p>

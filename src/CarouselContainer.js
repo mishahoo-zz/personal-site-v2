@@ -6,6 +6,7 @@ const CarouselContainer = () => (
     <Carousel>
       <Carousel.Item>
         <img
+          className="carousel-img"
           width={900}
           height={500}
           alt="900x500"
@@ -18,6 +19,7 @@ const CarouselContainer = () => (
       </Carousel.Item>
       <Carousel.Item>
         <img
+          className="carousel-img"
           width={900}
           height={500}
           alt="900x500"
@@ -30,6 +32,7 @@ const CarouselContainer = () => (
       </Carousel.Item>
       <Carousel.Item>
         <img
+          className="carousel-img"
           width={900}
           height={500}
           alt="900x500"
