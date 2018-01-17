@@ -7,9 +7,7 @@ const CarouselContainer = () => (
       <Carousel.Item>
         <img
           className="carousel-img"
-          width={900}
-          height={500}
-          alt="900x500"
+          alt="carousel"
           src="https://imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg"
         />
         <Carousel.Caption>
@@ -20,9 +18,7 @@ const CarouselContainer = () => (
       <Carousel.Item>
         <img
           className="carousel-img"
-          width={900}
-          height={500}
-          alt="900x500"
+          alt="carousel"
           src="https://imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg"
         />
         <Carousel.Caption>
@@ -33,9 +29,7 @@ const CarouselContainer = () => (
       <Carousel.Item>
         <img
           className="carousel-img"
-          width={900}
-          height={500}
-          alt="900x500"
+          alt="carousel"
           src="https://imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg"
         />
         <Carousel.Caption>

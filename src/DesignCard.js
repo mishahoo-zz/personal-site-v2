@@ -3,7 +3,7 @@ import './DesignCard.css';
 
 const DesignCard = ({ card }) => (
   <div>
-    <img className="card-img" src="https://www.w3schools.com/howto/img_fjords.jpg" alt="Design Card" />
+    <img className="card-img" src={card.image} alt="Design Card" />
   </div>
 );
 
