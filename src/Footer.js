@@ -4,7 +4,7 @@ import './Footer.css';
 
 const Footer = () => (
   <div>
-    <Navbar className="footer">
+    <Navbar fixedBottom className="footer">
       <Grid>
         <Navbar.Header>
           <Navbar.Brand>
